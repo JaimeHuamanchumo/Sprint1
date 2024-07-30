@@ -7,7 +7,7 @@ public class Viento extends Instrumento {
     }
 
     @Override
-    String tocar() {
-        return "Se esta tocando un instrumento de viento";
+    public void tocar() {
+        System.out.println("Se esta tocando un instrumento de viento");
     }
 }

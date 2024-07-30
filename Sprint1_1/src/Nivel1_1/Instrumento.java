@@ -25,5 +25,9 @@ public abstract class Instrumento {
         this.precio = precio;
     }
 
-    abstract String tocar();
+    public static void metodo(){
+        System.out.println("Prueba por metodo estatico");
+    }
+
+    public abstract void tocar();
 }
