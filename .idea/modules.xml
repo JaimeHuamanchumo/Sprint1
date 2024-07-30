@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Sprint1.iml" filepath="$PROJECT_DIR$/Sprint1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sprint1_1/Sprint1_1.iml" filepath="$PROJECT_DIR$/Sprint1_1/Sprint1_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sprint1_2/Sprint1_2.iml" filepath="$PROJECT_DIR$/Sprint1_2/Sprint1_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sprint1_3/Sprint1_3.iml" filepath="$PROJECT_DIR$/Sprint1_3/Sprint1_3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sprint1_4/Sprint1_4.iml" filepath="$PROJECT_DIR$/Sprint1_4/Sprint1_4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sprint1_5/Sprint1_5.iml" filepath="$PROJECT_DIR$/Sprint1_5/Sprint1_5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sprint1_6/Sprint1_6.iml" filepath="$PROJECT_DIR$/Sprint1_6/Sprint1_6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sprint1_7/Sprint1_7.iml" filepath="$PROJECT_DIR$/Sprint1_7/Sprint1_7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sprint1_8/Sprint1_8.iml" filepath="$PROJECT_DIR$/Sprint1_8/Sprint1_8.iml" />
+    </modules>
+  </component>
+</project>
