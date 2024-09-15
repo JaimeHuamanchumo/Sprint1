@@ -10,4 +10,7 @@ public class Telefono {
         this.modelo = modelo;
     }
 
+    public void llamar(String numero){
+        System.out.println("Se esta llamando al: " + numero);
+    }
 }
